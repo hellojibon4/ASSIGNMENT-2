@@ -1,0 +1,54 @@
+.nav-section-style {
+    /* border: 2px solid blue; */
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+/* shyer style  */
+
+.display-flex{
+    display: flex;
+}
+
+/* fill color 1 */
+.color-1{
+    color: #252432;
+}
+
+/* nav bar style */
+
+.nave-style {
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.nav-item{
+    list-style: none;
+    margin-right: 30px;
+}
+
+.nav-links{
+    align-items: center;
+}
+
+ .nav-links a{
+    text-decoration: none;
+    /* color: black; */
+ }
+
+ .home{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #252432;
+}
+
+. a .About, .Shop{
+    font-size: 0.80rem;
+    font-weight: 400;
+    align-items: center;
+    color: #8987A1;
+}
+
+
